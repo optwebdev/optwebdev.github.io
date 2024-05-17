@@ -136,14 +136,14 @@ h6 {
 
 /*** Progress Bar ***/
 
-// .progress,
-// .progress-bar {
-// 	box-shadow: none;
-// }
+.progress,
+.progress-bar {
+box-shadow: none;
+}
 
-// .progress-bar {
-// 	background-color: #49e2d6;
-// }
+.progress-bar {
+background-color: #49e2d6;
+}
 
 /*** Tabs ***/
 
@@ -1164,7 +1164,7 @@ figure {
 	text-align: center;
 	padding: 40px 0;
 	color: #FFF;
-	background: #333
+	background:  rgba(0, 10, 87,1);
 }
 
 .copyright {
